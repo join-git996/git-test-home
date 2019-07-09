@@ -5,3 +5,4 @@ this ia four line  b
 sdf odsfsd
 sdfsadf
 sdfsa
+Git has a mutable index called stage
